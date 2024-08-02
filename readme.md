@@ -24,7 +24,7 @@
 /user/login
 
 {
-    "email": "dilshoddilmurodov915@gmail.com",
+    "email": "dilshoddilmurodov11@gmail.com",
     "password": "admin"
 }
 
